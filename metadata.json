@@ -1,0 +1,6 @@
+{
+  "name": "Protocolo TAJ — TAF Barra Fixa",
+  "description": "Preparação de teste masculino e feminino para chegar no TAF com um plano, não com improvisos. Evolua na barra fixa do iniciante à meta do edital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
